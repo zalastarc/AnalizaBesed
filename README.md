@@ -5,7 +5,7 @@ Tukaj bomo analizirali besede v slovenskem jeziku.
 
 ### Podpodnaslov
 
-Dve zvezdici na **debelo**, ena zvezdica za *Ležeče*. 
+Dve zvezdici za **debelo**, ena zvezdica za *Ležeče*. 
 Besedilo lahko tudi ~~prečrtamo~~ (Opt + Shift + <>) ali pa ga 
 oblikujemo
 kot kodo:
@@ -14,3 +14,9 @@ kot kodo:
 def f(x):
     return 21
 ```
+
+# Avtorji
+
+- Hana
+- Mija
+- Zala
