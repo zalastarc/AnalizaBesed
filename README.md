@@ -17,6 +17,6 @@ def f(x):
 
 # Avtorji
 
-- Hana
-- Mija
-- Zala
+1) Hana
+2) Mija
+3) Zala
